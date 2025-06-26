@@ -16,7 +16,7 @@
 ```
 lab2/
 ├── lab2_postgres.py # Реализация с PostgreSQL
-├── lab2_redis.py # Реализация с Redis
+├── ostapenko_users.py # Реализация с Redis
 ├── requirements.txt # Зависимости
 ├── README.md # Инструкция (этот файл)
 └── answer.md # Ответы на вопросы
